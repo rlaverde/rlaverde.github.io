@@ -1,45 +1,8 @@
 ---
 layout: default
 title: Rafael Laverde
-permalink: /
 ---
 
-
-   <!-- Main jumbotron for a primary marketing message or call to action -->
-    <div class="jumbotron">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-4">
-              <a href="#">
-                  <img src="{{ site.url }}/img/me.jpg" alt="Rafael Laverde" class="img-circle">
-              </a>
-          </div>
-          <div class="col-md-8">
-            <h2> Hello, I’m Rafael Laverde, a software developer and computer science student from Colombia. </h1>
-
-            <p>Software Libre advocate. Wannabe python ninja. Padawan HPC. Newbie hacker. Science lover. Militant atheist. Freethinker, Hipster-friendly. Tech geek</p>
-          </div>
-      </div>
-      </div>
-    </div>
-
-    <div class="container">
-      <!-- Example row of columns -->
-      <div class="row">
-        <div class="col-md-4">
-          <h2>Heading</h2>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div>
-        <div class="col-md-4">
-          <h2>Heading</h2>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-       </div>
-        <div class="col-md-4">
-          <h2>Heading</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div>
-      </div>
-     </div> <!-- /container -->
+{% for post in site.categories.cv %}
+	{{ post.content }}
+{% endfor %}

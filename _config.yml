@@ -5,10 +5,10 @@ destination: _site
 
 navigation:
 - text: About Me
-  url: /
+  url: /#aboutme
 - text: Resume
-  url: /resume
+  url: /#resume
 - text: Blog
   url: /blog
 - text: Contact
-  url: /contact
+  url: /#contact

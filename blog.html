@@ -6,9 +6,16 @@ permalink: /blog/
 
 <div class="container">
   <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+
+  <div class="row">
+    {% for post in site.categories.blog %}
+	    <div class="col-md-4">
+	      <h2>{{ post.title }}</h2>
+	      <p>{{post.content | truncatewords: 40 }}</p>
+	      <span>{{ post.date | date_to_string }}</span>
+	      <p><a class="btn btn-default" href="{{ post.url }}" role="button">View details &raquo;</a></p>
+	    </div>
     {% endfor %}
-  </ul>
+  </div>
+
 </div>
