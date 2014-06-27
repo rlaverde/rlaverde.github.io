@@ -5,7 +5,7 @@ destination: _site
 
 navigation:
 - text: About Me
-  url: /aboutme
+  url: /
 - text: Resume
   url: /resume
 - text: Blog
