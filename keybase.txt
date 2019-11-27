@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/rlaverde
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rlaverde.me
+  * I am rlaverde (https://keybase.io/rlaverde) on keybase.
+  * I have a public key with fingerprint 3271 FEC2 A8C0 7F4A 2C87  B254 6602 EB64 61B9 8B5D
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ad14c5b13cc1b302eece839a9a1621d600186f6851b2d60e42ae338251afb87d0a",
+      "fingerprint": "3271fec2a8c07f4a2c87b2546602eb6461b98b5d",
+      "host": "keybase.io",
+      "key_id": "6602eb6461b98b5d",
+      "kid": "0101a71391cef528dbb617cfeff771646e0f8253308eac548052afa6f4388996df380a",
+      "uid": "171f8221304e57c8d89ca824d95e7219",
+      "username": "rlaverde"
+    },
+    "service": {
+      "hostname": "rlaverde.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1574870249,
+  "expire_in": 157680000,
+  "prev": "2f4546a41f537c9481fc30e36a23b5d3771643c28de84c74a7f69c30e4c5c9c7",
+  "seqno": 52,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMNmAnicbVJtTFNXGC5faouIbAs4srnlJstg65p77vft5nQ02jlI8GOBQWX13HvP
+hbti27WFwZChQ6yGaHCxQMSF+YEkLDMQmAyHKEQhE4XEz8Em0WwB+ZhDhE3MGDtt
+5p9l58/J+57nec7zPnkvxkToDGFq+KQCOypzwvq7awp0OSNHx0sIyaUUE+YSwoFC
+F8pXkNdnd2gKYSZIQJFQAYzMSoCWZSDRJIWQjARahCIEHAUUjiSBwKmcwAKJwhVi
+KIhoWqBYAFVJ4BUSEkZC1Zy5yOP2aE4flqUpHqhIpqAgk7zKQEoWeIliGY7D8hLH
+cEASBYlVMDHP5Q0ysDkJepFJc+EeLuwhe/+Df+qbBJAHtAhkpLKUoEgSB3hZRarK
+8wATEKlihzRNCgjKLCOQLAVVyKkMLQiiyCkqLYR8F4TkALYrUBSgSQaxvCwogihD
+gWIUkUU8BcQg0Is8TrgDYbQnHxYij4KIUiOBu4WajILBBif5D8KEKyPh9rh8LtmV
+jx/yfD631xwk+ordQeQnSLL/q2GXNKeCY8QMTPZqLidhBhgp+7SgKGB5RuBJihGN
+BCpyax5k15yhNieQ+AT/QYVYklIZnDRkgMrSvCwyAlBlmkQ0BykaZ0iHAqJlHBoS
+GJlnIK9yYhCBt0AWZZ4ITvWx00WYWQr7hLlY06vlOqGvwINn7uneFqkLM+iWRIUH
+90tn0K98unWXT8QuopmN1kBr3LujMhiPphbsNL2YebXns77Sl5p2utIjJyLbo7Xe
+rEN17mNL16ufvlF38Lkt03Fl06Mzo/fhlov+lm+rVlVUzhrMt/uvvFcfa2tW5wMn
+5zpfz2lPvJcB2zds3xw9HJNsdofrvcZlFvX87KWjx/c1Oxt3L6x7dUX21vhNDY2/
+cmPVCd6OsabUmr6Uh6f3ftjW9+OpiJVNvVt3Wc+cl2yrh3J6K8ru7ri/MDjUevOH
+9uS0jp//GFjG1G7+MxMN1y/fX2caeaGyc7q+97c8w4EzI3OHr6/OmYofcX70pPHL
+hlt6r+OgJWP3ErW0ITBPbVg7YiuT0q4MeDY9TBg4sBPsuyWP/l1OSt+1dKa9aLVK
+92Idd+Lqyh9dcrhtliOJZ/MfPL6blB3eWpZRnhx1Ds5cv1oSv30s6dpZ8D319dtt
+5zI7ItbUDupeHqvurxCQYXLfunRb7orGotjpwHDL+ESkN+vwofCTYYv+SWvk2uXG
+qbB3Uj2WG47EbTXGO39VVXHd7bYE62TKk8DtbP/GwC8z3V2zx5XBZlP1ia6v2qL0
+3zSp/P6s2tee1b+ZfiNm/tjvtS3xprd+ev7zAv38mvdTjlxeHxj6QP3COXxh19xS
+XYLpmZ6bRMVU0fSjnlf8p/ZGs3OGDquleIK91pr0oNC/p2JVW+D0Y7Kr78Ief2qj
+xTVR/A8S/8Yo
+=hGmN
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rlaverde
+
+==================================================================
+
